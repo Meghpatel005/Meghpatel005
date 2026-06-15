@@ -2,8 +2,7 @@
 <h3 align="center">AI/ML Engineer | Full-Stack Builder | Data-Driven Problem Solver</h3>
 
 <p align="center">
-  I build intelligent systems with a focus on machine learning, LLM applications, and scalable product engineering.
-</p>
+  Building the next generation of intelligent software through machine learning, large language models, and modern software engineering. Driven by curiosity and a builder's mindset, I create systems that learn, adapt, and solve meaningful problems at scale.
 
 ---
 
