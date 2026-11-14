@@ -1,14 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-  <img alt="Meghpatel005's GitHub profile" src="dark_mode.svg" />
-</picture>
 
-<h1 align="center">Hi, I'm Megh 👋</h1>
-<h3 align="center">AI/ML Engineer | Full-Stack Builder | Data-Driven Problem Solver</h3>
-
-<p align="center">
-  Building the next generation of intelligent software through machine learning, large language models, and modern software engineering. Driven by curiosity and a builder's mindset, I create systems that learn, adapt, and solve meaningful problems at scale.
 
 ---
 
